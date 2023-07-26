@@ -1,0 +1,17 @@
+[{ "id" : 1,
+  "arquivoId" : 1,
+  "data" : "2023-03-15",
+  "arquivoPath" : "meuarquivo.csv",
+  "linha" : "{'attr' : '1', 'attr1' : 'valor01'}"
+},
+
+{ "id" : 1,
+  "arquivoId" : 1,
+  "linha" : "{'attr1' : '1', 'attr2' : 'valor01'}",
+  "data" : "2023-03-15"
+},
+{ " i d " : 2 ,
+ " a r q u i v o I d " : 1,
+ " a r q u i v o P a t h " : null,
+  " l i n h a " : " { ' a t t r '   :   ' 1 ' ,   ' a t t r 1 '   :   ' v a l o r 0 1 ' } " , " d a t a " : " 2 0 2 3 - 0 3 - 1 5 " }
+]
